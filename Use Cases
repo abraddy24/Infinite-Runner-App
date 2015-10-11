@@ -1,0 +1,23 @@
+1) Start Game
+  - User opens the application
+  - User taps the start button to begin game
+
+2) Jump Character
+  -User taps screen to make character jump
+  -User tries to time jumps to avoid obstacles
+
+3) Hit Obstacle
+  -User does not jump and hits obstacle
+  -User mistimes jump and hits obstacle
+  -Character contact with obstacle ends game
+  
+4) Check High Score
+  -User opens applicaion and sees high score displayed on start screen
+  -User ends game by hitting obstacle and sees highs score on game over screen
+  
+5) Restart Game
+  -User ends game and then clicks restart button on game over screen
+  
+6) Set High Score
+  -User starts game and jumps over obstacles for long enough to beat previous high score
+  
