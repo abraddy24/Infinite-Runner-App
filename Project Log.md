@@ -30,5 +30,4 @@ Goal for the end of the Semester
   
   
 Goal for week of 11/9/2015
-  Do a tutorial on creaiting games in Android Studio and apply the knowledge from that tutorial to my project.
-  
+  Do a tutorial for piskel and start character anamation and object creation.
