@@ -22,4 +22,13 @@ Goal for Monday 10/12/2015
   
 Goal for Wednesday 10/14/2015
   Reading on Moodle. Start to think about system side of use cases
+
+
+
+Goal for the end of the Semester
+  Have a working start screen that opens into an empty game world.  Have a start on animation for the character sprite and a    couple obstacles created.   
+  
+  
+Goal for week of 11/9/2015
+  Do a tutorial on creaiting games in Android Studio and apply the knowledge from that tutorial to my project.
   
