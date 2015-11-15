@@ -31,3 +31,9 @@ Goal for the end of the Semester
   
 Goal for week of 11/9/2015
   Do a tutorial for piskel and start character anamation and object creation.
+
+Week of 11/9/2015
+  Tutorial completed and have a 2 frame walking model that will be used for character sprite.  Still trying to create           obstacles.
+  
+Goal for week of 11/16/2015
+  Start working on start screen that opens into game world.  Do a tutorial that will aid in this and try to implement it.       Also continue to work on obstacles.
