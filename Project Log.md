@@ -37,3 +37,9 @@ Week of 11/9/2015
   
 Goal for week of 11/16/2015
   Start working on start screen that opens into game world.  Do a tutorial that will aid in this and try to implement it.       Also continue to work on obstacles.
+
+Week of 11/16/2015
+  Got a start menu up and it runs on the emulaiton, but still tyring to get the start game button to open into another screen.   created new obstacles 
+  
+Goal for week of 11/23/2015
+  Get start button to open into blank screen.  Take UDemy class on Android 2D graphics games (32 lectures) and get good         progress on that.  
