@@ -42,4 +42,7 @@ Week of 11/16/2015
   Got a start menu up and it runs on the emulaiton, but still tyring to get the start game button to open into another screen.   created new obstacles 
   
 Goal for week of 11/23/2015
-  Get start button to open into blank screen.  Take UDemy class on Android 2D graphics games (32 lectures) and get good         progress on that.  
+  Get start button to open into blank screen.  Take UDemy class on Android Development (200 lectures) and get good              progress on that.  
+  
+Week of 11/23/2015
+  Made good progress on UDemy class on Android Development (completed 43 lectures).  Still debugging the start screen crashing   when the start button is pressed.  UDemy class has lecture about it, but working my way to that since this course has a lot   of good material it covers. 
