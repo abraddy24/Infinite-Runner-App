@@ -46,3 +46,6 @@ Goal for week of 11/23/2015
   
 Week of 11/23/2015
   Made good progress on UDemy class on Android Development (completed 43 lectures).  Still debugging the start screen crashing   when the start button is pressed.  UDemy class has lecture about it, but working my way to that since this course has a lot   of good material it covers. 
+
+Goal for week 11/30/2015
+  Continue going through UDemy course and try to fix the crash with my start button.
