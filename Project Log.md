@@ -49,3 +49,10 @@ Week of 11/23/2015
 
 Goal for week 11/30/2015
   Continue going through UDemy course and try to fix the crash with my start button.
+  
+Week of 11/30/2015
+  Good progress on UDemy course and fixed button crash.  
+  
+Goal for week 12/7/2015
+  Get a ground element crerated and displayed on the screen.  Possibly get character to be standing on it.  
+  
