@@ -56,3 +56,17 @@ Week of 11/30/2015
 Goal for week 12/7/2015
   Get a ground element crerated and displayed on the screen.  Possibly get character to be standing on it.  
   
+Winter Break 12/18/2015 - 1/10/2016
+  Goals:
+  1) get ground element into the game state (COMPLETED)
+  2) get character(static) onto ground surface (COMPLETED)
+  3)get character(animation) into game state (Problem looking to be resolved)
+  4)get one obstacle into game state (in progress)
+  5)get obstacle to move towards player 
+  6)get obstacle to return to opposite side of screen and continue to move
+  7)get character to jump
+  8)start to set up event collisions
+  9)create a game over screen
+  10)have a heads up display
+  
+  Discovery: found out my initial approach to creating the game was not working and have implemented the open source gaming library libgdx (https://libgdx.badlogicgames.com/) which is widely used to make games on mobile platforms.  This will take care of a lot of the background game loop processing and keep overall memory usage lower than if I implemented this game without it.
