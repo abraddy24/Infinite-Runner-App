@@ -61,12 +61,16 @@ Winter Break 12/18/2015 - 1/10/2016
   1) get ground element into the game state (COMPLETED)
   2) get character(static) onto ground surface (COMPLETED)
   3)get character(animation) into game state (Problem looking to be resolved)
-  4)get one obstacle into game state (in progress)
+  4)get one obstacle into game state (COMPLETED)
   5)get obstacle to move towards player 
   6)get obstacle to return to opposite side of screen and continue to move
-  7)get character to jump
+  7)get character to jump (jumps but does not ineract with ground element and falls off of screen)
   8)start to set up event collisions
   9)create a game over screen
   10)have a heads up display
   
   Discovery: found out my initial approach to creating the game was not working and have implemented the open source gaming library libgdx (https://libgdx.badlogicgames.com/) which is widely used to make games on mobile platforms.  This will take care of a lot of the background game loop processing and keep overall memory usage lower than if I implemented this game without it.
+
+
+As of 1/7/2016: 
+I have gotten a jumping system in place but need the character to intract with the ground element so that he does not fall off the screen when falling back down after the peak of the jump.  Obstacles are in the game but stationary and need to make a few more obstacles so that there is a variety of things to jump over.  Start screen and game over screen needs to be implemented.  Collisioin detection has been researched and I'm working on implementing it into the game.  HUD is simple enough just trying to get everything else working since it is not a major component to the game running. 
