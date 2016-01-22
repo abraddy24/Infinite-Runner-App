@@ -74,3 +74,6 @@ Winter Break 12/18/2015 - 1/10/2016
 
 As of 1/7/2016: 
 I have gotten a jumping system in place but need the character to intract with the ground element so that he does not fall off the screen when falling back down after the peak of the jump.  Obstacles are in the game but stationary and need to make a few more obstacles so that there is a variety of things to jump over.  Start screen and game over screen needs to be implemented.  Collisioin detection has been researched and I'm working on implementing it into the game.  HUD is simple enough just trying to get everything else working since it is not a major component to the game running. 
+
+Update 1/21/2016:
+Character no longer falls through the floor and does not fly off the screen.  Obstacles randomly generate and move through world at random y coordinates.  Fixing that is the next big challenge. I have 7 total obstacles and the score is on the screen.  Score still needs to be updated as obstacles are cleared, but that will be addressed once obstacles are placed and spaced properly.  Collision detection postponed until obstacles are fixed (mentioned before).
