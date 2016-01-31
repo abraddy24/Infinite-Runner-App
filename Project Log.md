@@ -77,3 +77,6 @@ I have gotten a jumping system in place but need the character to intract with t
 
 Update 1/21/2016:
 Character no longer falls through the floor and does not fly off the screen.  Obstacles randomly generate and move through world at random y coordinates.  Fixing that is the next big challenge. I have 7 total obstacles and the score is on the screen.  Score still needs to be updated as obstacles are cleared, but that will be addressed once obstacles are placed and spaced properly.  Collision detection postponed until obstacles are fixed (mentioned before).
+
+Update 1/30/2016:
+Character hit box is created and dimentions of it are appropriate.  Obstacle hit boxes created and move with the obstacles appropriately.  New problem is that some obstacles are drawing on top of eachother (paper/book, computer/glass, calendar/whiteboard) need to figure out what is going on with that.  Collision detection works.  Start and ending game work.  Obstacles spawn at character starting spot, so that immiedately ends the game, needs to be fixed.  Final piece is to get the score to tally up and save.  Almost done!!
