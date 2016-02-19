@@ -80,3 +80,6 @@ Character no longer falls through the floor and does not fly off the screen.  Ob
 
 Update 1/30/2016:
 Character hit box is created and dimentions of it are appropriate.  Obstacle hit boxes created and move with the obstacles appropriately.  New problem is that some obstacles are drawing on top of eachother (paper/book, computer/glass, calendar/whiteboard) need to figure out what is going on with that.  Collision detection works.  Start and ending game work.  Obstacles spawn at character starting spot, so that immiedately ends the game, needs to be fixed.  Final piece is to get the score to tally up and save.  Almost done!!
+
+Update 2/18/2016
+Everything is working except character animation.  Upon deeper research, in order to have my character appear to be running I would have to completely change my application.  So that is now out of the question.  The scoring saves but it is sometimes glitchy, it sometimes does not restart on the first obstacle when game is restarted. That is about all I have left to do project wise.  On to the paper!!!
